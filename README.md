@@ -4,7 +4,7 @@
 
 I'm a soon-to-be software developer from the UK 🇬🇧
 #### 🙋🏼‍♂️ About me
-- 📚 I'm currently a student [@makersacademy](https://github.com/makersacademy)
+- 📚 Recently graduated [@makersacademy](https://github.com/makersacademy)
 - 🧑🏼‍💻 Working on a few side projects, such as my [team generator](https://github.com/tomal02/team-generator)
 - 🎮 I play games and ice skate pretty regularly
 
