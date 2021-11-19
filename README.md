@@ -8,12 +8,10 @@ I'm a soon-to-be software developer from the UK 🇬🇧
 - 🧑🏼‍💻 Working on a few side projects, such as my [team generator](https://github.com/tomal02/team-generator)
 - 🎮 I play games and ice skate pretty regularly
 
-#### 🛠 Tech & Tools
+#### 🛠 Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&labelColor=black&logoColor=white&color=004ACC)
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&labelColor=black&logo=macos&logoColor=white&color=004ACC)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&labelColor=black&logo=visualstudiocode&logoColor=white&color=004ACC)
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&labelColor=black&logoColor=white&color=004ACC)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&labelColor=black&logoColor=white&color=004ACC)
 
 ### 📈 Github stats
 
