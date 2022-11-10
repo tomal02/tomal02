@@ -5,7 +5,6 @@
 I'm a software developer from the UK 🇬🇧
 #### 🙋🏼‍♂️ About me
 - 📚 Recently graduated [@makersacademy](https://github.com/makersacademy)
-- 🧑🏼‍💻 Working on a few side projects, such as my [team generator](https://github.com/tomal02/team-generator)
 - 🎮 I play games and ice skate pretty regularly
 
 #### 🛠 Tools
